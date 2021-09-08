@@ -1,1 +1,1 @@
-## Learning PWA through this project
+## Learning PWA in React through this project.
