@@ -1,1 +1,1 @@
-## Learning PWA in React through this project.
+### Weather-App Without PWA - Live [Demo!](https://w-nopwa.netlify.app/)
