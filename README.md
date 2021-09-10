@@ -1,6 +1,5 @@
-### Weather-App Without PWA - Live [Demo!](https://w-nopwa.netlify.app/)
+### Weather-App With PWA [Demo!](https://weatherr-pwa.netlify.app/) & Without PWA[Demo!](https://w-nopwa.netlify.app/)
 
-### Weather-App With PWA - Live [Demo!](https://weatherr-pwa.netlify.app/)
 
 ## Quick Look at PWA
 
