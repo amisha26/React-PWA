@@ -2,7 +2,7 @@
 
 |  #  | Project                                                                                                  | Live Demo                                      |
 | :-: | -------------------------------------------------------------------------------------------------------- | ---------------------------------------------- |
-| 01  | [With-Out-PWA-Repo](https://github.com/amisha26/React-PWA/tree/0c191bc13944bf8f1284d5529e47199859cadf1f) | [Live Demo](https://w-nopwa.netlify.app/)      |
+| 01  | [Without-PWA-Repo](https://github.com/amisha26/React-PWA/tree/0c191bc13944bf8f1284d5529e47199859cadf1f) | [Live Demo](https://w-nopwa.netlify.app/)      |
 | 02  | [Wth-PWA-Repo](https://github.com/amisha26/React-PWA/tree/c1c12654f860d9d2da4d0d26efcc192d3f1e1fd6)      | [Live Demo](https://weatherr-pwa.netlify.app/) |
 
 ## Quick Look at PWA
@@ -22,7 +22,7 @@ $ npm install
 $ npm start
 ```
 
-## To check weather-app performance
+## To check PWA-app performance
 
 ```
 1. Click any of the demo link.
@@ -31,4 +31,4 @@ $ npm start
 4. Generate report.
 ```
 
-### HAPPY CODING 😊 !!!
+#### HAPPY CODING 😊 !!!
